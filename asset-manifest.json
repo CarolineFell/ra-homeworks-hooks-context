@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-homeworks-hooks-context/static/css/main.dc601d7a.chunk.css",
+    "main.js": "/ra-homeworks-hooks-context/static/js/main.98fbcdb1.chunk.js",
+    "main.js.map": "/ra-homeworks-hooks-context/static/js/main.98fbcdb1.chunk.js.map",
+    "runtime-main.js": "/ra-homeworks-hooks-context/static/js/runtime-main.5d2f4a09.js",
+    "runtime-main.js.map": "/ra-homeworks-hooks-context/static/js/runtime-main.5d2f4a09.js.map",
+    "static/js/2.498adaff.chunk.js": "/ra-homeworks-hooks-context/static/js/2.498adaff.chunk.js",
+    "static/js/2.498adaff.chunk.js.map": "/ra-homeworks-hooks-context/static/js/2.498adaff.chunk.js.map",
+    "index.html": "/ra-homeworks-hooks-context/index.html",
+    "precache-manifest.c0528e5cb695f6f79f8950ef4bbf0d4a.js": "/ra-homeworks-hooks-context/precache-manifest.c0528e5cb695f6f79f8950ef4bbf0d4a.js",
+    "service-worker.js": "/ra-homeworks-hooks-context/service-worker.js",
+    "static/css/main.dc601d7a.chunk.css.map": "/ra-homeworks-hooks-context/static/css/main.dc601d7a.chunk.css.map",
+    "static/js/2.498adaff.chunk.js.LICENSE.txt": "/ra-homeworks-hooks-context/static/js/2.498adaff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d2f4a09.js",
+    "static/js/2.498adaff.chunk.js",
+    "static/css/main.dc601d7a.chunk.css",
+    "static/js/main.98fbcdb1.chunk.js"
+  ]
+}
